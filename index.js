@@ -5,4 +5,4 @@ var app = new Vue({
     }
 });
 
-app.message = 'I have changed the data!';
+app.message = 'My name is LayMui-Toh!';
